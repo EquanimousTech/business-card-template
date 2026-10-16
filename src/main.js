@@ -38,27 +38,27 @@ const mainComp = {
     })
 
     document.getElementById('linkedInBtn').addEventListener('click', () => {
-      window.open('https://www.linkedin.com/in/marcverbenkov/', '_blank')
+      window.open('https://www.linkedin.com/in/example/', '_blank')
     })
 
     document.getElementById('twitterBtn').addEventListener('click', () => {
-      window.open('https://twitter.com/MarcVerbenkov', '_blank')
+      window.open('https://twitter.com/example', '_blank')
     })
 
     document.getElementById('callBtn').addEventListener('click', () => {
-      window.open('tel: +17785513662', '_blank')
+      window.open('tel:+10000000000', '_blank')
     })
 
     document.getElementById('mailBtn').addEventListener('click', () => {
-      window.open('mailto: marc.verbenkov@future-readyconsulting.com', '_blank')
+      window.open('mailto:name@example.com', '_blank')
     })
 
     document.getElementById('webBtn').addEventListener('click', () => {
-      window.open('https://future-readyconsulting.com/', '_blank')
+      window.open('https://example.com/', '_blank')
     })
 
     document.getElementById('podcastBtn').addEventListener('click', () => {
-      window.open('https://futuretechandforesight.com/', '_blank')
+      window.open('https://podcast.example.com/', '_blank')
     })
 
     const showImage = () => {

@@ -1,0 +1,18 @@
+{
+  "imagePath": "image-targets/Front_target.jpeg",
+  "name": "Front",
+  "type": "PLANAR",
+  "properties": {
+    "top": 112,
+    "left": 0,
+    "width": 675,
+    "height": 900,
+    "isRotated": true,
+    "originalWidth": 675,
+    "originalHeight": 1125
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1693078918087,
+  "updated": 1693078918087
+}
